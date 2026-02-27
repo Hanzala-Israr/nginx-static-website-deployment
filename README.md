@@ -3,8 +3,6 @@
 This project demonstrates how to deploy a static website using **Nginx** on an **AWS EC2 Ubuntu instance**.
 The website is served over HTTP using a configured Nginx server block.
 
-This project is part of a DevOps learning journey and covers server setup, web server configuration, and deployment.
-
 ---
 
 ## Technologies Used
@@ -188,3 +186,16 @@ http://16.170.159.226
 ## Author
 
 Hanzala Israr
+
+---
+
+<img width="1338" height="651" alt="image" src="https://github.com/user-attachments/assets/ee884e8b-f21e-4edc-b362-40750f645198" />
+
+---
+<img width="1920" height="4417" alt="image" src="https://github.com/user-attachments/assets/e5dd856c-1f86-409f-8762-90b8568e945d" />
+
+
+
+
+
+
